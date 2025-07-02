@@ -1,0 +1,1 @@
+# kubernetes supporting YAML files
